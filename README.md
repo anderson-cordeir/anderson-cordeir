@@ -2,7 +2,7 @@
   Olá, mundo! 👋 Sou Anderson Cordeiro
 </h1>
 <p align="center">
-  <em>Analista de Dados · Cientista Social · Recife, BR</em>
+  <em>Analista de Dados · Estudante de Ciências Sociais · Recife, BR</em>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/anderson-cordeiro2001/">
@@ -19,13 +19,12 @@
  
 ## 🧠 Sobre mim
  
-Estou no último período de **Ciências Sociais na UFPE**, com foco na interface entre **dados, estatística e tomada de decisão** — tanto em políticas públicas quanto no mercado e no terceiro setor.
+Estou no último período de **Ciências Sociais na UFPE**, com experiência em **dados, estatística e tomada de decisão** — tanto em políticas públicas quanto no terceiro setor.
  
 Minha formação me permite ir além dos números: interpreto dados com contexto social e econômico, estruturo problemas com pensamento crítico e comunico resultados de forma clara e estratégica.
  
 Tenho experiência com **dados regulatórios**, **pesquisa quantitativa aplicada** e **análise institucional**, utilizando Python, SQL, R e SPSS para extrair, organizar e transformar dados em decisões de valor.
  
-> _"Dados sem contexto são apenas ruído. O diferencial está em saber o que perguntar."_
  
 ---
  
