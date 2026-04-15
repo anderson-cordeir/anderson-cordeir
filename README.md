@@ -1,9 +1,5 @@
 <h1 align="center">Olá Mundo! 👋 Sou Anderson Cordeiro</h1>
 
-<h3 align="center">
-Análise de Dados | Estatística Aplicada | Insights para Negócio e Políticas Públicas
-</h3>
-
 ---
 
 ## 🧠 Sobre mim
