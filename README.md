@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou Anderson Cordeiro</h1>
+<h1 align="center">Olá Mundo! 👋 Sou Anderson Cordeiro</h1>
 
 <h3 align="center">
 Análise de Dados | Estatística Aplicada | Insights para Negócio e Políticas Públicas
@@ -8,7 +8,7 @@ Análise de Dados | Estatística Aplicada | Insights para Negócio e Políticas 
 
 ## 🧠 Sobre mim
 
-Sou graduando em Ciências Sociais pela UFPE, com atuação na interface entre <strong>dados, estatística e tomada de decisão</strong>, tanto no contexto de <strong>políticas públicas</strong> quanto no <strong>mercado em geral</strong>.
+Estou no último período de Ciências Sociais na UFPE, com atuação na interface entre <strong>dados, estatística e tomada de decisão</strong>, tanto no contexto de <strong>políticas públicas</strong> quanto no <strong>mercado em geral</strong>.
 
 Minha experiência combina análise quantitativa com visão estratégica, tendo atuado com <strong>dados regulatórios</strong>, <strong>pesquisa aplicada</strong> e <strong>análise de informações institucionais</strong>. Utilizo ferramentas como <strong>Python, SQL, R e SPSS</strong> para extrair, organizar e interpretar dados com foco em geração de valor.
 
