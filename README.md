@@ -105,3 +105,5 @@ Aberto a conversas sobre **dados, projetos, oportunidades e colaborações**. Me
 <!---
 anderson-cordeir/anderson-cordeir is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
 --->
+
+p.s: Esse README.MD foi construído com o auxílio das IAs GPT PRO e CLAUDE.
